@@ -39,8 +39,11 @@ Le fichier suivant est fourni en entrée :
  * 1 3 N
  * 5 1 E
 
-#### Qualite de code & Architecture a respecter ! (norme de codage Aussi :D)
+#### Notes Importantes !:
+ * Qualite de code & Architecture a respecter ! (norme de codage Aussi :D)
+ * plagia => 0
+ * vous pouvez etudiez les solutions sur internet **mais on veut votre Solution**
 #### Bonus
-Vous pouvew ecrire des test unitaires afin de consolider votre code
+Vous pouvez ecrire des tests unitaires afin de consolider votre code
 
 ##### Bonne Chance
