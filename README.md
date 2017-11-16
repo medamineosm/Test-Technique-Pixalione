@@ -39,4 +39,8 @@ Le fichier suivant est fourni en entrée :
  * 1 3 N
  * 5 1 E
 
+#### Qualite de code & Architecture a respecter ! (norme de codage Aussi :D)
+#### Bonus
+Vous pouvew ecrire des test unitaires afin de consolider votre code
+
 ##### Bonne Chance
