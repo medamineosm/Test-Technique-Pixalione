@@ -43,6 +43,9 @@ Le fichier suivant est fourni en entrée :
  * Qualite de code & Architecture a respecter ! (norme de codage Aussi :D)
  * plagia => 0
  * vous pouvez etudiez les solutions sur internet **mais on veut votre Solution**
+  * https://github.com/snilyes/mowitnow
+  * https://github.com/dcaramelo/kata-MowItNow/blob/master/README.md
+  * https://bitbucket.org/snichele/training-tdd-with-typescript/branch/bean-validation-fwk-elaboration
 #### Bonus
 Vous pouvez ecrire des tests unitaires afin de consolider votre code
 
