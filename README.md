@@ -29,13 +29,13 @@ Concevoir et écrire un programme s'exécutant sur une JVM et implémentant la s
 Le fichier suivant est fourni en :
 
 Le fichier suivant est fourni en entrée :
-5 5
-1 2 N
-GAGAGAGAA
-3 3 E
-AADAADADDA
+ * 5 5
+ * 1 2 N
+ * GAGAGAGAA
+ * 3 3 E
+ * AADAADADDA
 On attend le résultat suivant (position finale des tondeuses) :
-1 3 N
-5 1 E
+ * 1 3 N
+ * 5 1 E
 
 ##### Bonne Chance
